@@ -1,0 +1,3 @@
+[submodule "libs/A"]
+	path = libs/A
+	url = https://github.com/dir-FY25makinokeisuke/repository-A
