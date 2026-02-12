@@ -1,3 +1,9 @@
-[submodule "repository-A"]
-	path = repository-A
-	url = https://github.com/dir-FY25shizukashunsuke/repository-A.git
+[submodule "libs/A"]
+	path = libs/A
+	url = https://github.com/dir-FY25makinokeisuke/repository-A
+[submodule "libs/auth"]
+	path = libs/auth
+	url = https://github.com/dir-FY25makinokeisuke/repository-auth.git
+[submodule "libs/roles"]
+	path = libs/roles
+	url = https://github.com/dir-FY25makinokeisuke/repository-roles.git
